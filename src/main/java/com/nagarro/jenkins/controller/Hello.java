@@ -8,6 +8,6 @@ public class Hello {
 
     @GetMapping("hello")
     String hello(){
-        return "Hello Jenkins";
+        return "Hello Jenkins DevOps king";
     }
 }
